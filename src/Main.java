@@ -5,6 +5,6 @@ public class Main {
         System.out.println("Hello world");
         System.out.println("jh");
         System.out.println("sdf");
-        System.out.println(kjasdfh);
+        System.out.println("kjasdfh");
         }
 }
